@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW SQLite</string>
+    <string name="first_name">Имя</string>
+    <string name="second_name">Фамилия</string>
+    <string name="add">Добавить</string>
+    <string name="read">Прочесть</string>
+    <string name="clear">Очистить таблицу</string>
+</resources>
